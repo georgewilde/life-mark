@@ -7,5 +7,15 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "api": {
+      "tags": []
+    },
+    "frontend": {
+      "tags": []
+    },
+    "frontend-e2e": {
+      "tags": []
+    }
+  }
 }
